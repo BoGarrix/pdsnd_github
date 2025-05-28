@@ -1,17 +1,14 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+5/28/2025
 
-### Project Title
-Replace the Project Title
+### Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+in this project we'll apply what we have learned in version control course.
 
 ### Files used
-Include the files used
+we'll be using the bikeshare_2.py file that we used in our python course project.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* [There is many useful sources like this one.](https://www.atlassian.com/git)
 

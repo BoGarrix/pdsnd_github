@@ -215,7 +215,7 @@ def user_stats(df):
     user_types = df['User Type'].value_counts().to_dict()
     print(f'\ncounts of user types: {user_types}\n')
 
-    # Display counts of gender
+    # Display counts of gender, applying error handeling
     try:
         counts_of_gender = df['Gender'].value_counts().to_dict()
         print(f'\ncounts of gender: \n{counts_of_gender}')
