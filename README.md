@@ -6,7 +6,7 @@
 ### Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+in this project we'll apply what we have learned in version control course.
 
 ### Files used
 Include the files used
